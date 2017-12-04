@@ -1,2 +1,2 @@
-# Java-3BHIF
+# Java
 My Java Projects
